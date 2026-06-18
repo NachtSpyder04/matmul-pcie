@@ -1,10 +1,15 @@
 .Xil/
-.cache/
-.hw/
-.runs/
-.gen/
-.ip_user_files/
-.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.runs/
+mat_mul_test/
+*.srcs/
+*.xpr
+
+# Logs
 *.jou
 *.log
 *.str
